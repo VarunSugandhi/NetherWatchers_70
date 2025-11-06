@@ -1,11 +1,20 @@
-# NetherWatchers_70
+#  Nether Watchers
 
-#Team name : Nether Watchers
-#Team id : 70
-#Team Lead : Varun S
-Email : varunsugandhi0@gmail.com
-Team members
--Abhishek Jain
--Ankit Gowda
--Anusha
--Haripriya
+**Team ID:** 70  
+**Team Name:** Nether Watchers  
+
+---
+
+###  Team Lead
+**Name:** Varun S  
+**Email:** [varunsugandhi0@gmail.com](mailto:varunsugandhi0@gmail.com)
+
+---
+
+###  Team Members
+- Abhishek Jain  
+- Ankit Gowda  
+- Anusha  
+- Haripriya  
+
+---
